@@ -1,4 +1,5 @@
 package lang;
 
-public class Class {
+public class Class<T> {
+    Object
 }
